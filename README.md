@@ -7,7 +7,7 @@
 Bop2 is a nice Discord bot powered by Robot Studios®!
 
 # Prefix
-The default prefix is '!'.
+The default prefix is '!'
 
 # Do you need help? Join our server and get help!
 https://discord.gg/u2wu7mh
