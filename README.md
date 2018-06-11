@@ -4,7 +4,7 @@
 </p>
 
 # What is Bop2?
-Bop2 is a nice Discord bot powered by Robot Studios®!
+Bop2 is a nice Discord bot powered by Robot Studios!
 
 # Prefix
 The default prefix is '!'
