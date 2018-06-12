@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const TOKEN = "NDU1MjkwMTE1ODI1MDc0MTc2.Df7Xhg._z8zzHyz4LxxXBk_whfHigcoD_k" 
+const TOKEN = "NDU1MjkwMTE1ODI1MDc0MTc2.DgGqSw.qfjq6w-WqIAgWGExrFT6fuHqcnQ" 
 const bot = new Discord.Client();
 
 bot.on("ready", function() {
@@ -18,4 +18,4 @@ bot.on("message", function(message) {
 
 });
 
-bot.login("NDU1MjkwMTE1ODI1MDc0MTc2.Df7Xhg._z8zzHyz4LxxXBk_whfHigcoD_k");
+bot.login(TOKEN);
