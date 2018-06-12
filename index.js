@@ -12,9 +12,6 @@ bot.on("ready", function() {
 bot.on("message", function(message) {
     console.log(message.content)
     
-    if (message.content === "!ping")
-        message.channel.sendMessage("Pong!");
-    
     var embed = new Discord.RichEmbed()
         .setDescription("Hello, this is an awesome rich embed")
     if(message.content === "!embed")
